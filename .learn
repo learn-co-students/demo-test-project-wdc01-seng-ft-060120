@@ -1,0 +1,6 @@
+project:
+  review_criteria:
+    - Game has 2 players
+    - Game Passes specs
+    - Uses Ember
+    - Reviewed on Github
